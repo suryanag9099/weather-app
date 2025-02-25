@@ -7,7 +7,7 @@ A weather forecast application built with React that provides daily and hourly w
 - Displays daily and hourly weather forecasts.
 - Provides weather conditions, temperature, humidity, wind speed, and more.
 - Fetches real-time weather data from the Open-Meteo API.
-- Responsive UI with a clean and modern design.
+- Responsive UI with a clean and modern design
 
 ## Technologies Used
 - React.js
@@ -69,5 +69,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out to [Surya Nag](https://github.com/suryanag9099).
+For any queries, reach out to [Surya Nag](https://github.com/suryanag9099)
 
